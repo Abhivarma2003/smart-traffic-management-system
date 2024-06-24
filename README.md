@@ -45,3 +45,6 @@ R3             6 number            220 Ω Resistor
 R4
 R5
 R6
+# overview of the project
+![Screenshot 2024-06-23 204713](https://github.com/Abhivarma2003/smart-traffic-management-system/assets/140427059/ddacfac3-d72e-4c4d-a648-19d7436ef2e8)
+
